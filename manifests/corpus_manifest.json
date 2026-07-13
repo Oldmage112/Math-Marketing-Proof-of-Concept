@@ -1,0 +1,19 @@
+{
+  "corpus_name": "AI Reference POC Corpus",
+  "version": "1.0.0",
+  "created_date": "2026-07-13",
+  "description": "Starter corpus manifest for an AI reference proof of concept.",
+  "items": [
+    {
+      "id": "DOC-001",
+      "title": "Example Onboarding Guide",
+      "media_type": "document",
+      "source_file": "source/documents/pdf/DOC-001_example-onboarding-guide_v1.0_2026-07-13.pdf",
+      "normalized_files": [
+        "normalized/markdown/DOC-001_example-onboarding-guide_v1.0_2026-07-13.md"
+      ],
+      "metadata_file": "metadata/documents/DOC-001_example-onboarding-guide.metadata.json",
+      "chunk_file": "chunks/documents/DOC-001_chunks.jsonl"
+    }
+  ]
+}

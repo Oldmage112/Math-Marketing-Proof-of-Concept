@@ -1,0 +1,31 @@
+{
+  "id": "DOC-001",
+  "title": "Example Onboarding Guide",
+  "media_type": "document",
+  "file_type": "pdf",
+  "source_path": "source/documents/pdf/DOC-001_example-onboarding-guide_v1.0_2026-07-13.pdf",
+  "normalized_path": "normalized/markdown/DOC-001_example-onboarding-guide_v1.0_2026-07-13.md",
+  "created_date": "2026-07-13",
+  "last_reviewed": "2026-07-13",
+  "author_or_owner": "POC Team",
+  "department": "Sample",
+  "topics": [
+    "onboarding",
+    "training"
+  ],
+  "keywords": [
+    "new user",
+    "first week",
+    "checklist"
+  ],
+  "sensitivity": "internal",
+  "language": "en-CA",
+  "version": "1.0",
+  "summary": "A sample onboarding document used to test AI retrieval and summarization.",
+  "related_files": [],
+  "recommended_use": [
+    "summarization",
+    "question answering",
+    "policy lookup"
+  ]
+}

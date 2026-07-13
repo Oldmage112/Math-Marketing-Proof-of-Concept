@@ -1,0 +1,1 @@
+{"question_id":"Q-002","question":"Compare the onboarding checklist with the product demo workflow.","expected_source_ids":["DOC-001","VID-001"],"expected_answer_summary":"The onboarding checklist focuses on setup and policy review, while the product demo focuses on dashboard usage, reporting, and export workflow.","difficulty":"medium","answer_type":"comparison"}

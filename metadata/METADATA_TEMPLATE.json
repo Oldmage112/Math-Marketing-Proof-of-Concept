@@ -1,0 +1,20 @@
+{
+  "id": "",
+  "title": "",
+  "media_type": "document | spreadsheet | image | audio | video | presentation | code",
+  "file_type": "",
+  "source_path": "",
+  "normalized_path": "",
+  "created_date": "YYYY-MM-DD",
+  "last_reviewed": "YYYY-MM-DD",
+  "author_or_owner": "",
+  "department": "",
+  "topics": [],
+  "keywords": [],
+  "sensitivity": "public | internal | confidential | restricted",
+  "language": "en-CA",
+  "version": "1.0",
+  "summary": "",
+  "related_files": [],
+  "recommended_use": []
+}

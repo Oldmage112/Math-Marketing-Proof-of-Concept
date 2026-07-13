@@ -1,0 +1,2 @@
+id,title,media_type,source_path,normalized_path,metadata_path,chunk_path,sensitivity,topics
+DOC-001,Example Onboarding Guide,document,source/documents/pdf/DOC-001_example-onboarding-guide_v1.0_2026-07-13.pdf,normalized/markdown/DOC-001_example-onboarding-guide_v1.0_2026-07-13.md,metadata/documents/DOC-001_example-onboarding-guide.metadata.json,chunks/documents/DOC-001_chunks.jsonl,internal,onboarding;training
