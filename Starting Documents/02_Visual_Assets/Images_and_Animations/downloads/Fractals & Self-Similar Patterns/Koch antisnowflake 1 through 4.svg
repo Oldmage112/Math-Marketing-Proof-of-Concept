@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="495.31mm" height="431.8mm" viewBox="-20591 -12970 49531 43180" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <g visibility="visible" id="Slide_1">
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_1_0" stroke-linejoin="round" d="M 5248,-12075 L 28108,-12075"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_2_0" stroke-linejoin="round" d="M 5248,-12075 L 16678,7737"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_3_0" stroke-linejoin="round" d="M 28108,-12075 L 16678,7737"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_4_0" stroke-linejoin="round" d="M -19759,9503 L -12139,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_5_0" stroke-linejoin="round" d="M -19759,9503 L -15949,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_6_0" stroke-linejoin="round" d="M 3101,9503 L -709,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_7_0" stroke-linejoin="round" d="M -15949,16106 L -709,16106"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_8_0" stroke-linejoin="round" d="M -4519,22705 L -12139,9507"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_9_0" stroke-linejoin="round" d="M -4519,9507 L -12139,22705"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_10_0" stroke-linejoin="round" d="M -4519,22711 L -8329,29315"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_11_0" stroke-linejoin="round" d="M -12139,22711 L -8329,29315"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_12_0" stroke-linejoin="round" d="M -4519,9503 L 3101,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_13_0" stroke-linejoin="round" d="M 5248,9503 L 6518,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_14_0" stroke-linejoin="round" d="M 25568,13910 L 24298,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_15_0" stroke-linejoin="round" d="M 14138,11704 L 12868,9507"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_16_0" stroke-linejoin="round" d="M 17948,13914 L 16678,16111"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_17_0" stroke-linejoin="round" d="M 17948,27118 L 16678,29315"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_18_0" stroke-linejoin="round" d="M 12868,22711 L 14138,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_19_0" stroke-linejoin="round" d="M 20488,9503 L 23028,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_20_0" stroke-linejoin="round" d="M 25568,9503 L 24298,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_21_0" stroke-linejoin="round" d="M 23028,9503 L 24298,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_22_0" stroke-linejoin="round" d="M 25569,9503 L 28109,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_23_0" stroke-linejoin="round" d="M 12868,9503 L 10328,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_24_0" stroke-linejoin="round" d="M 7788,9503 L 9058,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_25_0" stroke-linejoin="round" d="M 10328,9503 L 9058,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_26_0" stroke-linejoin="round" d="M 7788,9503 L 5248,9503"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_27_0" stroke-linejoin="round" d="M 21758,16145 L 20488,13948"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_28_0" stroke-linejoin="round" d="M 19218,16145 L 20488,13948"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_29_0" stroke-linejoin="round" d="M 16678,16106 L 19218,16106"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_30_0" stroke-linejoin="round" d="M 21758,16106 L 24298,16106"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_31_0" stroke-linejoin="round" d="M 11598,16145 L 12868,13948"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_32_0" stroke-linejoin="round" d="M 14138,16145 L 12868,13948"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_33_0" stroke-linejoin="round" d="M 16678,16106 L 14138,16106"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_34_0" stroke-linejoin="round" d="M 11598,16106 L 9058,16106"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_35_0" stroke-linejoin="round" d="M 20488,22711 L 19218,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_36_0" stroke-linejoin="round" d="M 15408,27118 L 16678,29315"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_37_0" stroke-linejoin="round" d="M 16678,24908 L 19218,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_38_0" stroke-linejoin="round" d="M 16678,24908 L 14138,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_39_0" stroke-linejoin="round" d="M 17948,27105 L 16678,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_40_0" stroke-linejoin="round" d="M 15408,27105 L 16678,24908"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_41_0" stroke-linejoin="round" d="M 17948,18304 L 16678,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_42_0" stroke-linejoin="round" d="M 12868,22711 L 14138,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_43_0" stroke-linejoin="round" d="M 20488,22711 L 19218,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_44_0" stroke-linejoin="round" d="M 15408,18304 L 16678,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_45_0" stroke-linejoin="round" d="M 16678,20514 L 19218,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_46_0" stroke-linejoin="round" d="M 16678,20514 L 14138,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_47_0" stroke-linejoin="round" d="M 17948,18317 L 16678,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_48_0" stroke-linejoin="round" d="M 15408,18317 L 16678,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_49_0" stroke-linejoin="round" d="M 28109,9503 L 26839,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_50_0" stroke-linejoin="round" d="M 7788,13910 L 9058,16107"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_51_0" stroke-linejoin="round" d="M 16678,16112 L 15408,13915"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_52_0" stroke-linejoin="round" d="M 20488,9507 L 19218,11704"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_53_0" stroke-linejoin="round" d="M 17948,13910 L 20488,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_54_0" stroke-linejoin="round" d="M 12868,13910 L 15408,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_55_0" stroke-linejoin="round" d="M 9058,11700 L 6518,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_56_0" stroke-linejoin="round" d="M 9058,11700 L 7788,13897"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_57_0" stroke-linejoin="round" d="M 24298,11700 L 25568,13897"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_58_0" stroke-linejoin="round" d="M 24298,11700 L 26838,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_59_0" stroke-linejoin="round" d="M 12868,13948 L 14138,11751"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,132,209)" id="Drawing_60_0" stroke-linejoin="round" d="M 20488,13948 L 19218,11751"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_61_0" stroke-width="102" stroke-linejoin="round" d="M -19752,-12081 L 3108,-12081"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_62_0" stroke-width="102" stroke-linejoin="round" d="M -19752,-12081 L -8322,7731"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_63_0" stroke-width="102" stroke-linejoin="round" d="M 3108,-12081 L -8322,7731"/>
+  </g>
+  <g>
+   <rect fill="none" stroke="none" x="-20592" y="-12969" width="24767" height="21592"/>
+   <rect fill="none" stroke="none" x="-20591" y="-12969" width="24767" height="21592"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_65_0" stroke-width="102" stroke-linejoin="round" d="M 5236,-12088 L 12856,-12088"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_66_0" stroke-width="102" stroke-linejoin="round" d="M 5236,-12088 L 9046,-5484"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_67_0" stroke-width="102" stroke-linejoin="round" d="M 28096,-12088 L 24286,-5484"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_68_0" stroke-width="102" stroke-linejoin="round" d="M 9046,-5485 L 24286,-5485"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_69_0" stroke-width="102" stroke-linejoin="round" d="M 20476,1114 L 12856,-12084"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_70_0" stroke-width="102" stroke-linejoin="round" d="M 20476,-12084 L 12856,1114"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_71_0" stroke-width="102" stroke-linejoin="round" d="M 20476,1120 L 16666,7724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_72_0" stroke-width="102" stroke-linejoin="round" d="M 12856,1120 L 16666,7724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_73_0" stroke-width="102" stroke-linejoin="round" d="M 20476,-12088 L 28096,-12088"/>
+  </g>
+  <g>
+   <rect fill="none" stroke="none" x="4173" y="-12970" width="24767" height="21592"/>
+   <rect fill="none" stroke="none" x="4174" y="-12970" width="24767" height="21592"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_75_0" stroke-width="102" stroke-linejoin="round" d="M -19747,9515 L -18477,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_76_0" stroke-width="102" stroke-linejoin="round" d="M 573,13922 L -697,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_77_0" stroke-width="102" stroke-linejoin="round" d="M -10857,11716 L -12127,9519"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_78_0" stroke-width="102" stroke-linejoin="round" d="M -7047,13926 L -8317,16123"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_79_0" stroke-width="102" stroke-linejoin="round" d="M -7047,27130 L -8317,29327"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_80_0" stroke-width="102" stroke-linejoin="round" d="M -12127,22723 L -10857,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_81_0" stroke-width="102" stroke-linejoin="round" d="M -4507,9515 L -1967,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_82_0" stroke-width="102" stroke-linejoin="round" d="M 573,9515 L -697,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_83_0" stroke-width="102" stroke-linejoin="round" d="M -1967,9515 L -697,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_84_0" stroke-width="102" stroke-linejoin="round" d="M 574,9515 L 3114,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_85_0" stroke-width="102" stroke-linejoin="round" d="M -12127,9515 L -14667,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_86_0" stroke-width="102" stroke-linejoin="round" d="M -17207,9515 L -15937,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_87_0" stroke-width="102" stroke-linejoin="round" d="M -14667,9515 L -15937,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_88_0" stroke-width="102" stroke-linejoin="round" d="M -17207,9515 L -19747,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_89_0" stroke-width="102" stroke-linejoin="round" d="M -3237,16157 L -4507,13960"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_90_0" stroke-width="102" stroke-linejoin="round" d="M -5777,16157 L -4507,13960"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_91_0" stroke-width="102" stroke-linejoin="round" d="M -8317,16118 L -5777,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_92_0" stroke-width="102" stroke-linejoin="round" d="M -3237,16118 L -697,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_93_0" stroke-width="102" stroke-linejoin="round" d="M -13397,16157 L -12127,13960"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_94_0" stroke-width="102" stroke-linejoin="round" d="M -10857,16157 L -12127,13960"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_95_0" stroke-width="102" stroke-linejoin="round" d="M -8317,16118 L -10857,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_96_0" stroke-width="102" stroke-linejoin="round" d="M -13397,16118 L -15937,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_97_0" stroke-width="102" stroke-linejoin="round" d="M -4507,22723 L -5777,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_98_0" stroke-width="102" stroke-linejoin="round" d="M -9587,27130 L -8317,29327"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_99_0" stroke-width="102" stroke-linejoin="round" d="M -8317,24920 L -5777,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_100_0" stroke-width="102" stroke-linejoin="round" d="M -8317,24920 L -10857,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_101_0" stroke-width="102" stroke-linejoin="round" d="M -7047,27117 L -8317,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_102_0" stroke-width="102" stroke-linejoin="round" d="M -9587,27117 L -8317,24920"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_103_0" stroke-width="102" stroke-linejoin="round" d="M -7047,18316 L -8317,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_104_0" stroke-width="102" stroke-linejoin="round" d="M -12127,22723 L -10857,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_105_0" stroke-width="102" stroke-linejoin="round" d="M -4507,22723 L -5777,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_106_0" stroke-width="102" stroke-linejoin="round" d="M -9587,18316 L -8317,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_107_0" stroke-width="102" stroke-linejoin="round" d="M -8317,20526 L -5777,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_108_0" stroke-width="102" stroke-linejoin="round" d="M -8317,20526 L -10857,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_109_0" stroke-width="102" stroke-linejoin="round" d="M -7047,18329 L -8317,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_110_0" stroke-width="102" stroke-linejoin="round" d="M -9587,18329 L -8317,20526"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_111_0" stroke-width="102" stroke-linejoin="round" d="M 3114,9515 L 1844,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_112_0" stroke-width="102" stroke-linejoin="round" d="M -17207,13922 L -15937,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_113_0" stroke-width="102" stroke-linejoin="round" d="M -8317,16124 L -9587,13927"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_114_0" stroke-width="102" stroke-linejoin="round" d="M -4507,9519 L -5777,11716"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_115_0" stroke-width="102" stroke-linejoin="round" d="M -7047,13922 L -4507,13922"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_116_0" stroke-width="102" stroke-linejoin="round" d="M -12127,13922 L -9587,13922"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_117_0" stroke-width="102" stroke-linejoin="round" d="M -15937,11712 L -18477,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_118_0" stroke-width="102" stroke-linejoin="round" d="M -15937,11712 L -17207,13909"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_119_0" stroke-width="102" stroke-linejoin="round" d="M -697,11712 L 573,13909"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_120_0" stroke-width="102" stroke-linejoin="round" d="M -697,11712 L 1843,11712"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_121_0" stroke-width="102" stroke-linejoin="round" d="M -12127,13960 L -10857,11763"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_122_0" stroke-width="102" stroke-linejoin="round" d="M -4507,13960 L -5777,11763"/>
+  </g>
+  <g>
+   <rect fill="none" stroke="none" x="-20592" y="8620" width="24767" height="21592"/>
+   <rect fill="none" stroke="none" x="-20591" y="8620" width="24767" height="21592"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_124_0" stroke-width="102" stroke-linejoin="round" d="M 28096,9517 L 27672,10256"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_125_0" stroke-width="102" stroke-linejoin="round" d="M 24286,11724 L 25133,11724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_126_0" stroke-width="102" stroke-linejoin="round" d="M 25556,9518 L 25132,10257"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_127_0" stroke-width="102" stroke-linejoin="round" d="M 17090,28592 L 16666,29327"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_128_0" stroke-width="102" stroke-linejoin="round" d="M 15396,27131 L 15820,27866"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_129_0" stroke-width="102" stroke-linejoin="round" d="M 27249,9517 L 28096,9517"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_130_0" stroke-width="102" stroke-linejoin="round" d="M 25556,10985 L 25132,11724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_131_0" stroke-width="102" stroke-linejoin="round" d="M 25556,10985 L 25980,11724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_132_0" stroke-width="102" stroke-linejoin="round" d="M 25979,11724 L 26826,11724"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_133_0" stroke-width="102" stroke-linejoin="round" d="M 25132,10246 L 25556,10985"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_134_0" stroke-width="102" stroke-linejoin="round" d="M 15820,26395 L 15396,27130"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_135_0" stroke-width="102" stroke-linejoin="round" d="M 24710,10987 L 24286,11726"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_136_0" stroke-width="102" stroke-linejoin="round" d="M 16666,24934 L 16242,25669"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_137_0" stroke-width="102" stroke-linejoin="round" d="M 24709,10985 L 25556,10985"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_138_0" stroke-width="102" stroke-linejoin="round" d="M 17512,26395 L 17936,27130"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_139_0" stroke-width="102" stroke-linejoin="round" d="M 16666,24934 L 17090,25669"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_140_0" stroke-width="102" stroke-linejoin="round" d="M 27250,10986 L 26826,11725"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_141_0" stroke-width="102" stroke-linejoin="round" d="M 25556,9517 L 26403,9517"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_142_0" stroke-width="102" stroke-linejoin="round" d="M 16242,28592 L 16666,29327"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_143_0" stroke-width="102" stroke-linejoin="round" d="M 17936,27131 L 17512,27866"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_144_0" stroke-width="102" stroke-linejoin="round" d="M 16666,26405 L 16242,25670"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_145_0" stroke-width="102" stroke-linejoin="round" d="M 16666,26405 L 17090,25670"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_146_0" stroke-width="102" stroke-linejoin="round" d="M 16666,26396 L 17513,26396"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_147_0" stroke-width="102" stroke-linejoin="round" d="M 16666,26397 L 15819,26397"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_148_0" stroke-width="102" stroke-linejoin="round" d="M 16666,27866 L 17513,27866"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_149_0" stroke-width="102" stroke-linejoin="round" d="M 16666,27866 L 15819,27866"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_150_0" stroke-width="102" stroke-linejoin="round" d="M 26826,10256 L 27250,10995"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_151_0" stroke-width="102" stroke-linejoin="round" d="M 26402,9517 L 26826,10256"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_152_0" stroke-width="102" stroke-linejoin="round" d="M 16666,27866 L 16242,28601"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_153_0" stroke-width="102" stroke-linejoin="round" d="M 16666,27866 L 17090,28601"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_154_0" stroke-width="102" stroke-linejoin="round" d="M 26826,10254 L 27673,10254"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_155_0" stroke-width="102" stroke-linejoin="round" d="M 27250,9516 L 26826,10255"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_156_0" stroke-width="102" stroke-linejoin="round" d="M 19206,20509 L 19638,21271"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_157_0" stroke-width="102" stroke-linejoin="round" d="M 5236,9518 L 5660,10257"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_158_0" stroke-width="102" stroke-linejoin="round" d="M 9046,11725 L 8199,11725"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_159_0" stroke-width="102" stroke-linejoin="round" d="M 7776,9519 L 8200,10258"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_160_0" stroke-width="102" stroke-linejoin="round" d="M 6083,9518 L 5236,9518"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_161_0" stroke-width="102" stroke-linejoin="round" d="M 7776,10986 L 8200,11725"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_162_0" stroke-width="102" stroke-linejoin="round" d="M 7776,10986 L 7352,11725"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_163_0" stroke-width="102" stroke-linejoin="round" d="M 7353,11725 L 6506,11725"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_164_0" stroke-width="102" stroke-linejoin="round" d="M 8200,10247 L 7776,10986"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_165_0" stroke-width="102" stroke-linejoin="round" d="M 8622,10988 L 9046,11727"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_166_0" stroke-width="102" stroke-linejoin="round" d="M 8623,10986 L 7776,10986"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_167_0" stroke-width="102" stroke-linejoin="round" d="M 6082,10987 L 6506,11726"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_168_0" stroke-width="102" stroke-linejoin="round" d="M 7776,9518 L 6929,9518"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_169_0" stroke-width="102" stroke-linejoin="round" d="M 6506,10257 L 6082,10996"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_170_0" stroke-width="102" stroke-linejoin="round" d="M 6930,9518 L 6506,10257"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_171_0" stroke-width="102" stroke-linejoin="round" d="M 6506,10255 L 5659,10255"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_172_0" stroke-width="102" stroke-linejoin="round" d="M 6082,9517 L 6506,10256"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_173_0" stroke-width="102" stroke-linejoin="round" d="M 17090,19778 L 16666,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_174_0" stroke-width="102" stroke-linejoin="round" d="M 15396,18317 L 15820,19052"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_175_0" stroke-width="102" stroke-linejoin="round" d="M 15820,17581 L 15396,18316"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_176_0" stroke-width="102" stroke-linejoin="round" d="M 16666,16120 L 16242,16855"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_177_0" stroke-width="102" stroke-linejoin="round" d="M 17512,17581 L 17936,18316"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_178_0" stroke-width="102" stroke-linejoin="round" d="M 16666,16120 L 17090,16855"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_179_0" stroke-width="102" stroke-linejoin="round" d="M 16242,19778 L 16666,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_180_0" stroke-width="102" stroke-linejoin="round" d="M 17936,18317 L 17512,19052"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_181_0" stroke-width="102" stroke-linejoin="round" d="M 16666,17591 L 16242,16856"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_182_0" stroke-width="102" stroke-linejoin="round" d="M 16666,17591 L 17090,16856"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_183_0" stroke-width="102" stroke-linejoin="round" d="M 16666,17582 L 17513,17582"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_184_0" stroke-width="102" stroke-linejoin="round" d="M 16666,17583 L 15819,17583"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_185_0" stroke-width="102" stroke-linejoin="round" d="M 16666,19052 L 17513,19052"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_186_0" stroke-width="102" stroke-linejoin="round" d="M 16666,19052 L 15819,19052"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_187_0" stroke-width="102" stroke-linejoin="round" d="M 16666,19052 L 16242,19787"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_188_0" stroke-width="102" stroke-linejoin="round" d="M 16666,19052 L 17090,19787"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_189_0" stroke-width="102" stroke-linejoin="round" d="M 20476,13910 L 20052,14649"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_190_0" stroke-width="102" stroke-linejoin="round" d="M 16666,16118 L 17513,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_191_0" stroke-width="102" stroke-linejoin="round" d="M 17936,13911 L 17512,14650"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_192_0" stroke-width="102" stroke-linejoin="round" d="M 19629,13910 L 20476,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_193_0" stroke-width="102" stroke-linejoin="round" d="M 17936,15379 L 17512,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_194_0" stroke-width="102" stroke-linejoin="round" d="M 17936,15379 L 18360,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_195_0" stroke-width="102" stroke-linejoin="round" d="M 18359,16118 L 19206,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_196_0" stroke-width="102" stroke-linejoin="round" d="M 17512,14640 L 17936,15379"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_197_0" stroke-width="102" stroke-linejoin="round" d="M 17090,15381 L 16666,16120"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_198_0" stroke-width="102" stroke-linejoin="round" d="M 17089,15379 L 17936,15379"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_199_0" stroke-width="102" stroke-linejoin="round" d="M 19630,15379 L 19206,16118"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_200_0" stroke-width="102" stroke-linejoin="round" d="M 17936,13910 L 18783,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_201_0" stroke-width="102" stroke-linejoin="round" d="M 19206,14649 L 19630,15388"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_202_0" stroke-width="102" stroke-linejoin="round" d="M 18782,13910 L 19206,14649"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_203_0" stroke-width="102" stroke-linejoin="round" d="M 19206,14647 L 20053,14647"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_204_0" stroke-width="102" stroke-linejoin="round" d="M 19630,13910 L 19206,14649"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_205_0" stroke-width="102" stroke-linejoin="round" d="M 12856,13911 L 13280,14650"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_206_0" stroke-width="102" stroke-linejoin="round" d="M 16666,16119 L 15819,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_207_0" stroke-width="102" stroke-linejoin="round" d="M 15396,13912 L 15820,14651"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_208_0" stroke-width="102" stroke-linejoin="round" d="M 13703,13911 L 12856,13911"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_209_0" stroke-width="102" stroke-linejoin="round" d="M 15396,15380 L 15820,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_210_0" stroke-width="102" stroke-linejoin="round" d="M 15396,15380 L 14972,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_211_0" stroke-width="102" stroke-linejoin="round" d="M 14973,16119 L 14126,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_212_0" stroke-width="102" stroke-linejoin="round" d="M 15820,14641 L 15396,15380"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_213_0" stroke-width="102" stroke-linejoin="round" d="M 16242,15382 L 16666,16121"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_214_0" stroke-width="102" stroke-linejoin="round" d="M 16243,15380 L 15396,15380"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_215_0" stroke-width="102" stroke-linejoin="round" d="M 13702,15380 L 14126,16119"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_216_0" stroke-width="102" stroke-linejoin="round" d="M 15396,13911 L 14549,13911"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_217_0" stroke-width="102" stroke-linejoin="round" d="M 14126,14650 L 13702,15389"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_218_0" stroke-width="102" stroke-linejoin="round" d="M 14550,13911 L 14126,14650"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_219_0" stroke-width="102" stroke-linejoin="round" d="M 14126,14648 L 13279,14648"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_220_0" stroke-width="102" stroke-linejoin="round" d="M 13702,13911 L 14126,14650"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_221_0" stroke-width="102" stroke-linejoin="round" d="M 21746,16122 L 22593,16122"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_222_0" stroke-width="102" stroke-linejoin="round" d="M 23016,15383 L 22592,16122"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_223_0" stroke-width="102" stroke-linejoin="round" d="M 23016,15383 L 23440,16122"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_224_0" stroke-width="102" stroke-linejoin="round" d="M 23439,16122 L 24286,16122"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_225_0" stroke-width="102" stroke-linejoin="round" d="M 11586,16123 L 10739,16123"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_226_0" stroke-width="102" stroke-linejoin="round" d="M 10316,15384 L 10740,16123"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_227_0" stroke-width="102" stroke-linejoin="round" d="M 10316,15384 L 9892,16123"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_228_0" stroke-width="102" stroke-linejoin="round" d="M 9893,16123 L 9046,16123"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_229_0" stroke-width="102" stroke-linejoin="round" d="M 16666,20514 L 17513,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_230_0" stroke-width="102" stroke-linejoin="round" d="M 17936,21253 L 17512,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_231_0" stroke-width="102" stroke-linejoin="round" d="M 17936,21253 L 18360,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_232_0" stroke-width="102" stroke-linejoin="round" d="M 18359,20514 L 19206,20514"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_233_0" stroke-width="102" stroke-linejoin="round" d="M 16666,20513 L 15819,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_234_0" stroke-width="102" stroke-linejoin="round" d="M 15396,21252 L 15820,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_235_0" stroke-width="102" stroke-linejoin="round" d="M 15396,21252 L 14972,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_236_0" stroke-width="102" stroke-linejoin="round" d="M 14973,20513 L 14126,20513"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_237_0" stroke-width="102" stroke-linejoin="round" d="M 20476,9515 L 21323,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_238_0" stroke-width="102" stroke-linejoin="round" d="M 21746,10254 L 21322,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_239_0" stroke-width="102" stroke-linejoin="round" d="M 21746,10254 L 22170,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_240_0" stroke-width="102" stroke-linejoin="round" d="M 22169,9515 L 23016,9515"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_241_0" stroke-width="102" stroke-linejoin="round" d="M 12856,9516 L 12009,9516"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_242_0" stroke-width="102" stroke-linejoin="round" d="M 11586,10255 L 12010,9516"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_243_0" stroke-width="102" stroke-linejoin="round" d="M 11586,10255 L 11162,9516"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_244_0" stroke-width="102" stroke-linejoin="round" d="M 11163,9516 L 10316,9516"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_245_0" stroke-width="102" stroke-linejoin="round" d="M 20044,21957 L 20476,22719"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_246_0" stroke-width="102" stroke-linejoin="round" d="M 19215,22012 L 20062,22012"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_247_0" stroke-width="102" stroke-linejoin="round" d="M 19639,21275 L 19215,22014"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_248_0" stroke-width="102" stroke-linejoin="round" d="M 14126,20510 L 13694,21272"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_249_0" stroke-width="102" stroke-linejoin="round" d="M 13288,21958 L 12856,22720"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_250_0" stroke-width="102" stroke-linejoin="round" d="M 14117,22013 L 13270,22013"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_251_0" stroke-width="102" stroke-linejoin="round" d="M 13693,21276 L 14117,22015"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_252_0" stroke-width="102" stroke-linejoin="round" d="M 19206,24933 L 19638,24171"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_253_0" stroke-width="102" stroke-linejoin="round" d="M 16666,24928 L 17513,24928"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_254_0" stroke-width="102" stroke-linejoin="round" d="M 17936,24189 L 17512,24928"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_255_0" stroke-width="102" stroke-linejoin="round" d="M 17936,24189 L 18360,24928"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_256_0" stroke-width="102" stroke-linejoin="round" d="M 18359,24928 L 19206,24928"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_257_0" stroke-width="102" stroke-linejoin="round" d="M 16666,24929 L 15819,24929"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_258_0" stroke-width="102" stroke-linejoin="round" d="M 15396,24190 L 15820,24929"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_259_0" stroke-width="102" stroke-linejoin="round" d="M 15396,24190 L 14972,24929"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_260_0" stroke-width="102" stroke-linejoin="round" d="M 14973,24929 L 14126,24929"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_261_0" stroke-width="102" stroke-linejoin="round" d="M 20044,23485 L 20476,22723"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_262_0" stroke-width="102" stroke-linejoin="round" d="M 19215,23430 L 20062,23430"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_263_0" stroke-width="102" stroke-linejoin="round" d="M 19639,24167 L 19215,23428"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_264_0" stroke-width="102" stroke-linejoin="round" d="M 14126,24932 L 13694,24170"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_265_0" stroke-width="102" stroke-linejoin="round" d="M 13288,23484 L 12856,22722"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_266_0" stroke-width="102" stroke-linejoin="round" d="M 14117,23429 L 13270,23429"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_267_0" stroke-width="102" stroke-linejoin="round" d="M 13693,24166 L 14117,23427"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_268_0" stroke-width="102" stroke-linejoin="round" d="M 23016,9516 L 23448,10278"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_269_0" stroke-width="102" stroke-linejoin="round" d="M 23854,10964 L 24286,11726"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_270_0" stroke-width="102" stroke-linejoin="round" d="M 23025,11019 L 23872,11019"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_271_0" stroke-width="102" stroke-linejoin="round" d="M 23449,10282 L 23025,11021"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_272_0" stroke-width="102" stroke-linejoin="round" d="M 24286,11726 L 24718,12488"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_273_0" stroke-width="102" stroke-linejoin="round" d="M 25124,13174 L 25556,13936"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_274_0" stroke-width="102" stroke-linejoin="round" d="M 24295,13229 L 25142,13229"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_275_0" stroke-width="102" stroke-linejoin="round" d="M 24719,12492 L 24295,13231"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_276_0" stroke-width="102" stroke-linejoin="round" d="M 10316,9517 L 9884,10279"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_277_0" stroke-width="102" stroke-linejoin="round" d="M 9478,10965 L 9046,11727"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_278_0" stroke-width="102" stroke-linejoin="round" d="M 10307,11020 L 9460,11020"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_279_0" stroke-width="102" stroke-linejoin="round" d="M 9883,10283 L 10307,11022"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_280_0" stroke-width="102" stroke-linejoin="round" d="M 9046,11727 L 8614,12489"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_281_0" stroke-width="102" stroke-linejoin="round" d="M 8208,13175 L 7776,13937"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_282_0" stroke-width="102" stroke-linejoin="round" d="M 9037,13230 L 8190,13230"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_283_0" stroke-width="102" stroke-linejoin="round" d="M 8613,12493 L 9037,13232"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_284_0" stroke-width="102" stroke-linejoin="round" d="M 12856,9516 L 13288,10278"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_285_0" stroke-width="102" stroke-linejoin="round" d="M 13694,10964 L 14126,11726"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_286_0" stroke-width="102" stroke-linejoin="round" d="M 12865,11019 L 13712,11019"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_287_0" stroke-width="102" stroke-linejoin="round" d="M 13289,10282 L 12865,11021"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_288_0" stroke-width="102" stroke-linejoin="round" d="M 20476,9517 L 20044,10279"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_289_0" stroke-width="102" stroke-linejoin="round" d="M 19638,10965 L 19206,11727"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_290_0" stroke-width="102" stroke-linejoin="round" d="M 20467,11020 L 19620,11020"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_291_0" stroke-width="102" stroke-linejoin="round" d="M 20043,10283 L 20467,11022"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_292_0" stroke-width="102" stroke-linejoin="round" d="M 20476,13910 L 20044,13148"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_293_0" stroke-width="102" stroke-linejoin="round" d="M 19638,12462 L 19206,11700"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_294_0" stroke-width="102" stroke-linejoin="round" d="M 20467,12407 L 19620,12407"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_295_0" stroke-width="102" stroke-linejoin="round" d="M 20043,13144 L 20467,12405"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_296_0" stroke-width="102" stroke-linejoin="round" d="M 12856,13911 L 13288,13149"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_297_0" stroke-width="102" stroke-linejoin="round" d="M 13694,12463 L 14126,11701"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_298_0" stroke-width="102" stroke-linejoin="round" d="M 12865,12408 L 13712,12408"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_299_0" stroke-width="102" stroke-linejoin="round" d="M 13289,13145 L 12865,12406"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_300_0" stroke-width="102" stroke-linejoin="round" d="M 21746,16120 L 21314,15358"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_301_0" stroke-width="102" stroke-linejoin="round" d="M 20908,14672 L 20476,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_302_0" stroke-width="102" stroke-linejoin="round" d="M 21737,14616 L 20890,14616"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_303_0" stroke-width="102" stroke-linejoin="round" d="M 21313,15354 L 21737,14615"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_304_0" stroke-width="102" stroke-linejoin="round" d="M 11586,16121 L 12018,15359"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_305_0" stroke-width="102" stroke-linejoin="round" d="M 12424,14673 L 12856,13911"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_306_0" stroke-width="102" stroke-linejoin="round" d="M 11595,14617 L 12442,14617"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_307_0" stroke-width="102" stroke-linejoin="round" d="M 12019,15355 L 11595,14616"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_308_0" stroke-width="102" stroke-linejoin="round" d="M 9046,16120 L 8614,15358"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_309_0" stroke-width="102" stroke-linejoin="round" d="M 8208,14672 L 7776,13910"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_310_0" stroke-width="102" stroke-linejoin="round" d="M 9037,14616 L 8190,14616"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_311_0" stroke-width="102" stroke-linejoin="round" d="M 8613,15354 L 9037,14615"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_312_0" stroke-width="102" stroke-linejoin="round" d="M 24286,16121 L 24718,15359"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_313_0" stroke-width="102" stroke-linejoin="round" d="M 25137,14648 L 25556,13911"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_314_0" stroke-width="102" stroke-linejoin="round" d="M 24295,14617 L 25142,14617"/>
+  </g>
+  <g>
+   <path fill="none" stroke="rgb(0,0,0)" id="Drawing_315_0" stroke-width="102" stroke-linejoin="round" d="M 24719,15355 L 24295,14616"/>
+  </g>
+  <g>
+   <rect fill="none" stroke="none" x="4173" y="8620" width="24767" height="21592"/>
+   <rect fill="none" stroke="none" x="4174" y="8620" width="24767" height="21592"/>
+  </g>
+ </g>
+</svg>

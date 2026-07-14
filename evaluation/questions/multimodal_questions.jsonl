@@ -1,1 +1,0 @@
-{"question_id":"Q-003","question":"Which system components are shown in the architecture diagram?","expected_source_ids":["IMG-001"],"expected_answer_summary":"The diagram includes a user interface, API layer, database, authentication provider, and reporting service.","difficulty":"easy","answer_type":"multimodal"}

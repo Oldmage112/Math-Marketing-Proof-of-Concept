@@ -1,7 +1,0 @@
-{
-  "index_name": "ai-reference-poc-index",
-  "embedding_model": "placeholder-model-name",
-  "chunk_source": "chunks/",
-  "metadata_source": "metadata/",
-  "notes": "Replace placeholder values with your actual vector database configuration."
-}

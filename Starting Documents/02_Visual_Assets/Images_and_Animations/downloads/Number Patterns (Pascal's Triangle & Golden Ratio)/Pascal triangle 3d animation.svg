@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-960 -900 1920 1440">
+ <title>Pascal triangle 3d animation</title>
+ <desc>Visualisation of the values in the first eight rows of the Pascal triangle as a rotating SVG CSS3 animation by CMG Lee. Even values are light and odd ones are dark.</desc>
+ <style type="text/css">
+  #main  { font-family:Times,Times New Roman,serif; font-size:96px; text-anchor:middle;
+           fill:none; stroke:none; stroke-linejoin:round; stroke-width:3; }
+  text   { stroke:none; cursor:default; }
+  .odd   { fill:#ffcc99; }
+  .even  { fill:#660000; }
+  @keyframes         rotate { 0%   { transform:         rotate(  0deg); }
+                              100% { transform:         rotate(360deg); } }
+  @-moz-keyframes    rotate { 0%   { -moz-transform:    rotate(  0deg); }
+                              100% { -moz-transform:    rotate(360deg); } }
+  @-webkit-keyframes rotate { 0%   { -webkit-transform: rotate(  0deg); }
+                              100% { -webkit-transform: rotate(360deg); } }
+  .rotate { animation:         rotate 60s linear infinite;
+            -moz-animation:    rotate 60s linear infinite;
+            -webkit-animation: rotate 60s linear infinite; }
+  @keyframes         scale { 0%   { transform:         scale(1.73205,1.0); }
+                             100% { transform:         scale(1.73205,0.2); } }
+  @-moz-keyframes    scale { 0%   { -moz-transform:    scale(1.73205,1.0); }
+                             100% { -moz-transform:    scale(1.73205,0.2); } }
+  @-webkit-keyframes scale { 0%   { -webkit-transform: scale(1.73205,1.0); }
+                             100% { -webkit-transform: scale(1.73205,0.2); } }
+  .scale { animation:         scale 47s ease-in alternate infinite;
+           -moz-animation:    scale 47s ease-in alternate infinite;
+           -webkit-animation: scale 47s ease-in alternate infinite; }
+  @keyframes         translate { 0%   { transform:         translateY(  0px); }
+                                 100% { transform:         translateY(-30px); } }
+  @-moz-keyframes    translate { 0%   { -moz-transform:    translateY(  0px); }
+                                 100% { -moz-transform:    translateY(-30px); } }
+  @-webkit-keyframes translate { 0%   { -webkit-transform: translateY(  0px); }
+                                 100% { -webkit-transform: translateY(-30px); } }
+  .translate { animation:         translate 60s ease alternate infinite;
+               -moz-animation:    translate 60s ease alternate infinite;
+               -webkit-animation: translate 60s ease alternate infinite; }
+ </style>
+ <defs>
+  <radialGradient id="grad_bg" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+   <stop offset="90%" stop-color="#6699cc"/>
+   <stop offset="99%" stop-color="#000033"/>
+  </radialGradient>
+  <radialGradient id="grad_shadow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+   <stop offset="90%"  stop-color="#336699"/>
+   <stop offset="100%" stop-color="#6699cc"/>
+  </radialGradient>
+  <ellipse id="shadow" cx="0" cy="-440" rx="51" ry="58" fill="url(#grad_shadow)"/>
+  <ellipse id="hex"    cx="0" cy="-440" rx="49" ry="56"/>
+  <!--
+  <path id="hex" transform="translate(0,-500)" d="M 0,67 L 50,33 V -33 L 0,-67 L -50,-33 V 33 Z" stroke="#333333"/>
+  -->
+  <use  id="hexo" xlink:href="#hex" fill="#993300" stroke="#660000"/>
+  <use  id="hexe" xlink:href="#hex" fill="#ffcc99" stroke="#996633"/>
+  <g id="label35" transform="translate(0,-440) scale(0.75,1)"><text y="0.7ex" class="odd"  font-weight="bold">35</text></g>
+  <g id="label21" transform="translate(0,-440) scale(0.75,1)"><text y="0.7ex" class="odd"  font-weight="bold">21</text></g>
+  <g id="label20" transform="translate(0,-440) scale(0.75,1)"><text y="0.7ex" class="even" font-weight="bold">20</text></g>
+  <g id="label15" transform="translate(0,-440) scale(0.75,1)"><text y="0.7ex" class="odd"  font-weight="bold">15</text></g>
+  <g id="label10" transform="translate(0,-440) scale(0.75,1)"><text y="0.7ex" class="even" font-weight="bold">10</text></g>
+  <g id="label07" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="odd"                     >7</text></g>
+  <g id="label06" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="even"                    >6</text></g>
+  <g id="label05" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="odd"                     >5</text></g>
+  <g id="label04" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="even"                    >4</text></g>
+  <g id="label03" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="odd"                     >3</text></g>
+  <g id="label02" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="even"                    >2</text></g>
+  <g id="label01" transform="translate(0,-440) scale(1.25,1)"><text y="0.7ex" class="odd"                     >1</text></g>
+  <g id="hex1"><use xlink:href="#hexo"/><use xlink:href="#label01"/></g>
+  <g id="upto35">                           <use xlink:href="#hexo"  x="-50" y="700"/><use xlink:href="#hexo"  x="50" y="700"/></g>
+  <g id="upto21"><use xlink:href="#upto35"/><use xlink:href="#hexo" x="-150" y="700"/><use xlink:href="#hexo" x="150" y="700"/></g>
+  <g id="upto20"><use xlink:href="#upto21"/><use xlink:href="#hexe"    x="0" y="600"/></g>
+  <g id="upto15"><use xlink:href="#upto20"/><use xlink:href="#hexo" x="-100" y="600"/><use xlink:href="#hexo" x="100" y="600"/></g>
+  <g id="upto10"><use xlink:href="#upto15"/><use xlink:href="#hexe"  x="-50" y="500"/><use xlink:href="#hexe"  x="50" y="500"/></g>
+  <g id="upto07"><use xlink:href="#upto10"/><use xlink:href="#hexo" x="-250" y="700"/><use xlink:href="#hexo" x="250" y="700"/></g>
+  <g id="upto06"><use xlink:href="#upto07"/><use xlink:href="#hexe" x="-200" y="600"/><use xlink:href="#hexe" x="200" y="600"/>
+                                            <use xlink:href="#hexe" x="0" y="400"/></g>
+  <g id="upto05"><use xlink:href="#upto06"/><use xlink:href="#hexo" x="-150" y="500"/><use xlink:href="#hexo" x="150" y="500"/></g>
+  <g id="upto04"><use xlink:href="#upto05"/><use xlink:href="#hexe" x="-100" y="400"/><use xlink:href="#hexe" x="100" y="400"/></g>
+  <g id="upto03"><use xlink:href="#upto04"/><use xlink:href="#hexo"  x="-50" y="300"/><use xlink:href="#hexo"  x="50" y="300"/></g>
+  <g id="upto02"><use xlink:href="#upto03"/><use xlink:href="#hexe"    x="0" y="200"/></g>
+  <g id="top35"><use xlink:href="#upto35"/><use xlink:href="#label35"  x="-50" y="700"/><use xlink:href="#label35"  x="50" y="700"/></g>
+  <g id="top21"><use xlink:href="#upto21"/><use xlink:href="#label21" x="-150" y="700"/><use xlink:href="#label21" x="150" y="700"/></g>
+  <g id="top20"><use xlink:href="#upto20"/><use xlink:href="#label20"    x="0" y="600"/></g>
+  <g id="top15"><use xlink:href="#upto15"/><use xlink:href="#label15" x="-100" y="600"/><use xlink:href="#label15" x="100" y="600"/></g>
+  <g id="top10"><use xlink:href="#upto10"/><use xlink:href="#label10"  x="-50" y="500"/><use xlink:href="#label10"  x="50" y="500"/></g>
+  <g id="top07"><use xlink:href="#upto07"/><use xlink:href="#label07" x="-250" y="700"/><use xlink:href="#label07" x="250" y="700"/></g>
+  <g id="top06"><use xlink:href="#upto06"/><use xlink:href="#label06" x="-200" y="600"/><use xlink:href="#label06" x="200" y="600"/>
+                                           <use xlink:href="#label06" x="0" y="400"/></g>
+  <g id="top05"><use xlink:href="#upto05"/><use xlink:href="#label05" x="-150" y="500"/><use xlink:href="#label05" x="150" y="500"/></g>
+  <g id="top04"><use xlink:href="#upto04"/><use xlink:href="#label04" x="-100" y="400"/><use xlink:href="#label04" x="100" y="400"/></g>
+  <g id="top03"><use xlink:href="#upto03"/><use xlink:href="#label03"  x="-50" y="300"/><use xlink:href="#label03"  x="50" y="300"/></g>
+  <g id="top02"><use xlink:href="#upto02"/><use xlink:href="#label02"    x="0" y="200"/></g>
+  <g id="top01"><use xlink:href="#upto02"/><use xlink:href="#hex1" x="-350" y="700"/><use xlink:href="#hex1" x="350" y="700"/>
+                                           <use xlink:href="#hex1" x="-300" y="600"/><use xlink:href="#hex1" x="300" y="600"/>
+                                           <use xlink:href="#hex1" x="-250" y="500"/><use xlink:href="#hex1" x="250" y="500"/>
+                                           <use xlink:href="#hex1" x="-200" y="400"/><use xlink:href="#hex1" x="200" y="400"/>
+                                           <use xlink:href="#hex1" x="-150" y="300"/><use xlink:href="#hex1" x="150" y="300"/>
+                                           <use xlink:href="#hex1" x="-100" y="200"/><use xlink:href="#hex1" x="100" y="200"/>
+                                           <use xlink:href="#hex1"  x="-50" y="100"/><use xlink:href="#hex1"  x="50" y="100"/>
+                                           <use xlink:href="#hex1"/></g>
+  <g id="top00">
+   <circle r="560" fill="url(#grad_bg)"/>
+   <use xlink:href="#shadow"  x="-50" y="700"/><use xlink:href="#shadow"  x="50" y="700"/>
+   <use xlink:href="#shadow" x="-150" y="700"/><use xlink:href="#shadow" x="150" y="700"/>
+   <use xlink:href="#shadow"    x="0" y="600"/>
+   <use xlink:href="#shadow" x="-100" y="600"/><use xlink:href="#shadow" x="100" y="600"/>
+   <use xlink:href="#shadow"  x="-50" y="500"/><use xlink:href="#shadow"  x="50" y="500"/>
+   <use xlink:href="#shadow" x="-250" y="700"/><use xlink:href="#shadow" x="250" y="700"/>
+   <use xlink:href="#shadow" x="-200" y="600"/><use xlink:href="#shadow" x="200" y="600"/>
+   <use xlink:href="#shadow" x="0" y="400"/>
+   <use xlink:href="#shadow" x="-150" y="500"/><use xlink:href="#shadow" x="150" y="500"/>
+   <use xlink:href="#shadow" x="-100" y="400"/><use xlink:href="#shadow" x="100" y="400"/>
+   <use xlink:href="#shadow"  x="-50" y="300"/><use xlink:href="#shadow"  x="50" y="300"/>
+   <use xlink:href="#shadow"    x="0" y="200"/>
+   <use xlink:href="#shadow" x="-350" y="700"/><use xlink:href="#shadow" x="350" y="700"/>
+   <use xlink:href="#shadow" x="-300" y="600"/><use xlink:href="#shadow" x="300" y="600"/>
+   <use xlink:href="#shadow" x="-250" y="500"/><use xlink:href="#shadow" x="250" y="500"/>
+   <use xlink:href="#shadow" x="-200" y="400"/><use xlink:href="#shadow" x="200" y="400"/>
+   <use xlink:href="#shadow" x="-150" y="300"/><use xlink:href="#shadow" x="150" y="300"/>
+   <use xlink:href="#shadow" x="-100" y="200"/><use xlink:href="#shadow" x="100" y="200"/>
+   <use xlink:href="#shadow"  x="-50" y="100"/><use xlink:href="#shadow"  x="50" y="100"/>
+   <use xlink:href="#shadow"/>
+  </g>
+ </defs>
+ <circle r="99999" fill="#000033"/>
+ <g id="main">
+  <g class="scale" transform="scale(1.73205,1)">
+   <g id="rotate00"                                   ><use xlink:href="#top00"  class="rotate"/>
+   <g id="rotate01" class="translate" stroke-width="2"><use xlink:href="#top01"  class="rotate"/>
+   <g id="rotate02" class="translate" stroke-width="2"><use xlink:href="#top02"  class="rotate"/>
+   <g id="rotate03" class="translate" stroke-width="2"><use xlink:href="#top03"  class="rotate"/>
+   <g id="rotate04" class="translate" stroke-width="2"><use xlink:href="#top04"  class="rotate"/>
+   <g id="rotate05" class="translate" stroke-width="4"><use xlink:href="#top05"  class="rotate"/>
+   <g id="rotate06" class="translate" stroke-width="2"><use xlink:href="#top06"  class="rotate"/>
+   <g id="rotate07" class="translate" stroke-width="2"><use xlink:href="#top07"  class="rotate"/>
+   <g id="rotate08" class="translate" stroke-width="2"><use xlink:href="#upto10" class="rotate"/>
+   <g id="rotate09" class="translate" stroke-width="2"><use xlink:href="#upto10" class="rotate"/>
+   <g id="rotate10" class="translate" stroke-width="6"><use xlink:href="#top10"  class="rotate"/>
+   <g id="rotate11" class="translate" stroke-width="2"><use xlink:href="#upto15" class="rotate"/>
+   <g id="rotate12" class="translate" stroke-width="2"><use xlink:href="#upto15" class="rotate"/>
+   <g id="rotate13" class="translate" stroke-width="2"><use xlink:href="#upto15" class="rotate"/>
+   <g id="rotate14" class="translate" stroke-width="2"><use xlink:href="#upto15" class="rotate"/>
+   <g id="rotate15" class="translate" stroke-width="4"><use xlink:href="#top15"  class="rotate"/>
+   <g id="rotate16" class="translate" stroke-width="2"><use xlink:href="#upto20" class="rotate"/>
+   <g id="rotate17" class="translate" stroke-width="2"><use xlink:href="#upto20" class="rotate"/>
+   <g id="rotate18" class="translate" stroke-width="2"><use xlink:href="#upto20" class="rotate"/>
+   <g id="rotate19" class="translate" stroke-width="2"><use xlink:href="#upto20" class="rotate"/>
+   <g id="rotate20" class="translate" stroke-width="6"><use xlink:href="#top20"  class="rotate"/>
+   <g id="rotate21" class="translate" stroke-width="2"><use xlink:href="#top21"  class="rotate"/>
+   <g id="rotate22" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate23" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate24" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate25" class="translate" stroke-width="4"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate26" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate27" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate28" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate29" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate30" class="translate" stroke-width="6"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate31" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate32" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate33" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate34" class="translate" stroke-width="2"><use xlink:href="#upto35" class="rotate"/>
+   <g id="rotate35" class="translate" stroke-width="4"><use xlink:href="#top35"  class="rotate"/>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+   </g>
+  </g>
+ </g>
+</svg>
