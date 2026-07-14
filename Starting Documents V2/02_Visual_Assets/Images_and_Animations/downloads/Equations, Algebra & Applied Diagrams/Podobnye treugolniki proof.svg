@@ -1,0 +1,7 @@
+<svg width="202mm" height="121mm" version="1.1" viewBox="0 0 202 121" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect width="202" height="121" fill="#fff"/><path d="m13 10v102h177z" fill="#fef" stroke="#81f"/>
+ <g id="a"><path d="m13 102h10v10" fill="none" stroke="#00f"/><rect x="13" y="102" width="10" height="10" fill="#88f"/></g>
+ <use transform="rotate(210 25 68)" xlink:href="#a"/><path d="m13 112 44-76.5" stroke="#f00"/>
+ <g fill="#09f" stroke="#000" stroke-width=".5"><circle cx="57" cy="35.5" r="2"/> <circle cx="13" cy="10" r="2"/><circle cx="190" cy="112" r="2"/><circle cx="13" cy="112" r="2"/></g>
+ <g fill="#00f" font-family="Times" font-size="12px"><text x="62" y="37">H</text><text x="2" y="9">A</text><text x="193" y="119">B</text><text x="3" y="119">C</text>
+ <g fill="#000"><text x="96" y="56">c</text><text x="100" y="119">a</text><text x="5" y="65">b</text></g>
+ <text x="39" y="78" fill="#f00">h</text></g></svg>

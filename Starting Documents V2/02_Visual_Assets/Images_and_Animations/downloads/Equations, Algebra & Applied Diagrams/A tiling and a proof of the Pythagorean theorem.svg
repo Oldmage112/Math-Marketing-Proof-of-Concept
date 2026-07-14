@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd"><!--
+
+   Author: Yves Baelde
+
+   Aspect ratio  5/4 = 750/600
+
+--><svg viewBox="0 -228 1830 1464" width="750" height="600" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" xml:space="preserve"><defs><pattern id="pg" width="448" x="157"
+ height="448" patternUnits="userSpaceOnUse"><path fill="#257" d="M0 0H448V448H0"/><path stroke="#885" d="m158-12 194 112 112-194M-96 100 98 212-14 406m30-52 336 194 194-336-336-194z"
+ fill="#fdd" stroke-width="14"/><path stroke-dasharray="24,32" stroke="#a00" stroke-width="8" d="M17 283H448M281 19V448"/></pattern><pattern id="wz" width="64" height="64" x="54" y="27"
+ patternUnits="userSpaceOnUse"><path fill="#ed7" d="M0 0H64V64H0"/><path fill="none" stroke="#864" d="m64-32-87 87v64l99-99" stroke-width="22"/></pattern><pattern id="vw" x="54" y="27"
+ width="64" height="64" patternUnits="userSpaceOnUse"><path fill="#ed7" d="M0 0H64V64H0"/><path fill="none" stroke="#864" d="m0-32 87 87v64l-99-99" stroke-width="22"/></pattern></defs><path
+ fill="url(#pg)" d="M0-228h1830v1464H0"/><g stroke="#27f" stroke-width="6"><path fill="url(#wz)" d="m1069 354 336 194 194-336-336-194m71 713h448v448H1334z"/><path fill="url(#vw)"
+ d="m1069 354 41-71h448l41-71-265-153v448m0 448v224h224l41-71m-82-306 41-71h224v224"/></g><path fill="#d8e" d="M703 1108H255l112-194"/><path fill="#fdd" d="m204 1222 66-114h418l-66 114"/><g
+ fill="none" stroke="#320" stroke-width="14"><path fill="#021" d="m1405 548 194 112 112-194-194-112m0 448 194 112-112 194-194-112"/><path stroke-width="9" d="m401 939-16 28-33-19"
+ stroke="#314"/><path d="m1405 548-336-194 194-336 336 194zm153 183-153 265-71-41m448 0-71-41-153 265"/><path stroke="#a00" d="M703 1108H255"/><path d="m255 1108 112-194 336 194"
+ stroke="#000"/><path stroke-dasharray="24,32" stroke-width="8" stroke="#a00" d="M1350 731h432v448H1334V731"/><path opacity=".72" stroke-linejoin="bevel" stroke-width="28"
+ stroke="#600" d="m538-142 83 48-83 48m265 377 83-48-83-48m224 672 83 48-83 48m41-295 83-48-83-48M621-94H173M886 283H438m224 672h448m41-295H703"/></g><g
+ font-family='"Bitstream Charter",serif'><text font-size="60" font-weight="bold"><tspan fill="#fff" y="936" x="231">2<tspan x="1575">2</tspan><tspan x="1575"
+ y="488">2</tspan></tspan><tspan opacity=".63" x="1377" y="240">2</tspan></text><text font-size="75" font-style="italic" y="1056" x="333">a<tspan x="438">b</tspan><tspan
+ font-size="102" font-weight="bold"><tspan fill="#fff" y="999" x="159">a<tspan x="1503">a</tspan><tspan x="1503" y="551">a</tspan></tspan><tspan fill="#a00"
+ font-size="93" x="450" y="1194">c</tspan><tspan opacity=".63" x="1305" y="303">b</tspan></tspan></text></g></svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="783"
+xmlns:xlink="http://www.w3.org/1999/xlink" height="783">
+<g id="j"><g id="i"><g id="h"><g id="g"><g id="f"><g
+id="e"><g id="d"><g id="c"><g id="b">
+<path id="a" stroke="#000" d="m27,27h1m1,0h1m-3,2h1m1,0h1"/>
+<use xlink:href="#a" x="6"/></g><use xlink:href="#b" y="6"/></g>
+<use xlink:href="#c" x="18"/></g><use xlink:href="#d" y="18"/></g>
+<use xlink:href="#e" x="54"/></g><use xlink:href="#f" y="54"/></g>
+<use xlink:href="#g" x="162"/></g><use xlink:href="#h" y="162"/></g>
+<use xlink:href="#i" x="486"/></g><use xlink:href="#j" y="486"/>
+</svg>
